@@ -58,3 +58,17 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 | **[Dashboard Financeiro](https://github.com/jpvbrandaos/Dashboard_Financeiro)** | Gestão de contas a receber e a pagar (2018 a 2019) em três páginas, com KPIs de lucro e margem, análise de pontualidade de pagamentos e recebimentos e quebras por UF e por cliente. | Power BI · DAX · Power Query |
 
 ## Formação
+
+**Bacharel em Administração de Empresas** pela Universidade Federal de Minas Gerais (UFMG).
+
+## Certificações
+
+- Power BI Impressionador (Hashtag Treinamentos)
+- Excel Impressionador (Hashtag Treinamentos)
+- SQL for Data Analysis and Data Science (Data Science Academy)
+- Analisando Dados com Pandas e SQL (Asimov Academy)
+- Análise Exploratória de Dados (Asimov Academy)
+
+## Idiomas
+
+Português (nativo) · Inglês (avançado)
