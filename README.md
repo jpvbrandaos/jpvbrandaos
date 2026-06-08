@@ -1,47 +1,60 @@
-# Olá, eu sou o João Pedro
+<div align="center">
 
-### Analista de Dados | Business Intelligence | Power BI, SQL e Python
+# João Pedro Vieira Brandão
 
-Graduado em Administração pela UFMG, com foco em Análise de Dados e Business Intelligence. Uno visão de negócio (finanças, consultoria e mercado financeiro) com ferramentas analíticas para transformar dados em decisão. Gosto de projetos que terminam em recomendação acionável, e não só em gráfico bonito.
+**Analista de Dados | Business Intelligence**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+Power BI · SQL · Python · Análise orientada à decisão de negócio
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpvbrandao/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empbrandao@gmail.com)
 
-## O que eu faço
-
-Desenvolvimento de **dashboards em Power BI** com medidas em DAX, tratamento no Power Query e modelagem de dados. Consulta e modelagem de dados em **SQL**. Análise exploratória em **Python (Pandas)**. Construção de KPIs, leitura de indicadores e **storytelling** para comunicar resultados a quem decide.
+</div>
 
 ---
+
+## Sobre
+
+Atuo na interseção entre negócio e dados. Minha formação em Administração pela UFMG e a vivência em finanças, consultoria e mercado financeiro me permitem traduzir perguntas de negócio em análises, indicadores e dashboards que sustentam a tomada de decisão. Conduzo o ciclo analítico completo, da modelagem e tratamento da base até a recomendação acionável, com foco em conectar o dado ao impacto financeiro.
+
+## Stack técnico
+
+**Business Intelligence e Visualização**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-01486B?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-3776AB?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Linguagens e Análise de Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Competências
+
+**Business Intelligence e visualização.** Desenvolvimento de dashboards em Power BI, modelagem de dados em esquema estrela, medidas em DAX, tratamento de dados em Power Query, construção de KPIs e storytelling para comunicação de resultados a stakeholders.
+
+**Análise de dados e programação.** Consultas analíticas em SQL (CTEs, window functions, PostgreSQL), análise exploratória e estatística no ecossistema Python (pandas, NumPy, Matplotlib, Seaborn, statsmodels), além de Excel avançado para modelagem e estruturação de dados.
+
+**Negócio e indicadores.** Tradução de problemas de negócio em perguntas analíticas, análise econômico-financeira, estudo de viabilidade, avaliação de risco e retorno e estruturação de indicadores comerciais e operacionais para apoio à decisão.
 
 ## Projetos em destaque
 
-### Análise de Estratégia de Preços e Receita (E-commerce)
-Análise de ponta a ponta sobre 3 anos de vendas (30.600 pedidos), usando **Python, SQL (PostgreSQL via Docker) e Power BI**. O projeto responde se a estratégia de descontos gera receita real ou apenas troca margem por volume. Principal achado: o desconto profundo tem correlação quase nula com a receita, enquanto o evento de Festival eleva o ticket em cerca de 60%.
-
-Repositório: https://github.com/jpvbrandaos/ecommerce-pricing-revenue-analysis
-
-### Dashboard Financeiro
-Dashboard de **gestão financeira** (contas a receber e a pagar) em **Power BI**, cobrindo 2018 e 2019. Três páginas (Visão Geral, Recebimentos e Pagamentos) com KPIs de receita, pagamentos, lucro e margem, análise de pontualidade (percentual no prazo contra atrasos), quebra por UF e por cliente, e evolução temporal com média móvel. Inclui modelagem de dados, medidas em DAX e navegação por botões entre as páginas.
-
-Repositório: https://github.com/jpvbrandaos/Dashboard_Financeiro
-
----
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| **[Análise de Estratégia de Preços e Receita](https://github.com/jpvbrandaos/ecommerce-pricing-revenue-analysis)** | Análise de ponta a ponta de 3 anos de vendas (30.600 pedidos) sobre a eficiência da política de descontos. Conclusão central: o desconto profundo tem correlação próxima de zero com a receita, enquanto o evento de Festival eleva o ticket em cerca de 60%. | Python · SQL (PostgreSQL/Docker) · Power BI |
+| **[Dashboard Financeiro](https://github.com/jpvbrandaos/Dashboard_Financeiro)** | Gestão de contas a receber e a pagar (2018 a 2019) em três páginas, com KPIs de lucro e margem, análise de pontualidade de pagamentos e recebimentos, e quebras por UF e por cliente. | Power BI · DAX · Power Query |
 
 ## Formação e certificações
 
-Bacharel em Administração de Empresas pela **UFMG**.
+Bacharel em Administração de Empresas pela **Universidade Federal de Minas Gerais (UFMG)**.
 
-Certificações: Power BI Impressionador e Excel Impressionador (Hashtag Treinamentos), SQL for Data Analysis and Data Science (Data Science Academy), Analisando Dados com Pandas & SQL e Análise Exploratória de Dados (Asimov Academy).
+Certificações em Power BI e Excel (Hashtag Treinamentos), SQL for Data Analysis and Data Science (Data Science Academy) e Análise de Dados com Pandas, SQL e Análise Exploratória (Asimov Academy).
 
----
+## Idiomas
 
-## Vamos conversar
-
-[LinkedIn](https://www.linkedin.com/in/jpvbrandao/) · empbrandao@gmail.com
-
-Idiomas: Português (nativo) e Inglês (avançado).
+Português (nativo) · Inglês (avançado)
