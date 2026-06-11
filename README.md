@@ -51,9 +51,9 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 **Negócio e indicadores.** Tradução de problemas de negócio em perguntas analíticas, análise econômico-financeira, estudo de viabilidade, avaliação de risco e retorno e estruturação de indicadores comerciais e operacionais como base para decisão.
 
 ## Projetos em destaque
-
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
+| **[Airbnb Chicago Analytics](https://github.com/jpvbrandaos/sql-airbnb-analytics)** | Pipeline SQL de ponta a ponta sobre 3,6 milhões de linhas do Inside Airbnb: arquitetura em camadas (staging → core), limpeza auditável e análises de negócio. Conclusão central: preço não é receita — o bairro mais caro da cidade é só o 5º em faturamento, e 33% dos anúncios sem licença geram apenas 3,2% da atividade real. | SQL (PostgreSQL 16/Docker) · Python · matplotlib |
 | **[Análise de Estratégia de Preços e Receita](https://github.com/jpvbrandaos/ecommerce-pricing-revenue-analysis)** | Análise de ponta a ponta de 3 anos de vendas (30.600 pedidos) sobre a eficiência da política de descontos. Conclusão central: o desconto profundo tem correlação próxima de zero com a receita, enquanto o evento de Festival eleva o ticket em cerca de 60%. | Python · SQL (PostgreSQL/Docker) · Power BI |
 | **[Dashboard Financeiro](https://github.com/jpvbrandaos/Dashboard_Financeiro)** | Gestão de contas a receber e a pagar (2018 a 2019) em três páginas, com KPIs de lucro e margem, análise de pontualidade de pagamentos e recebimentos e quebras por UF e por cliente. | Power BI · DAX · Power Query |
 
