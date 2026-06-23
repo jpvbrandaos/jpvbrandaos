@@ -1,7 +1,6 @@
 <div align="center">
 
 # João Pedro Vieira Brandão
-
 ### Analista de Dados · Business Intelligence
 
 Da pergunta de negócio à recomendação acionável, com Power BI, SQL e Python.
@@ -35,6 +34,7 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Ferramentas e Ambiente**
 
@@ -46,15 +46,17 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 
 **Business Intelligence e visualização.** Desenvolvimento de dashboards em Power BI, modelagem de dados em esquema estrela, medidas em DAX, tratamento de dados em Power Query, construção de KPIs e storytelling para comunicação de resultados a stakeholders.
 
-**Análise de dados e programação.** Consultas analíticas em SQL com CTEs e window functions sobre PostgreSQL, análise exploratória e estatística no ecossistema Python (pandas, NumPy, Matplotlib, Seaborn, statsmodels) e Excel avançado para modelagem e estruturação de dados.
+**Análise de dados e programação.** Consultas analíticas em SQL com CTEs e window functions sobre PostgreSQL, análise exploratória e estatística no ecossistema Python (pandas, NumPy, Matplotlib, Seaborn, statsmodels) e Excel avançado para modelagem e estruturação de dados. Também construo modelos preditivos e de previsão de séries temporais (scikit-learn, LightGBM), com cuidado de validação temporal e reprodutibilidade.
 
 **Negócio e indicadores.** Tradução de problemas de negócio em perguntas analíticas, análise econômico-financeira, estudo de viabilidade, avaliação de risco e retorno e estruturação de indicadores comerciais e operacionais como base para decisão.
 
 ## Projetos em destaque
+
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | **[Airbnb Chicago Analytics](https://github.com/jpvbrandaos/sql-airbnb-analytics)** | Pipeline SQL de ponta a ponta sobre 3,6 milhões de linhas do Inside Airbnb: arquitetura em camadas (staging → core), limpeza auditável e análises de negócio. Conclusão central: preço não é receita — o bairro mais caro da cidade é só o 5º em faturamento, e 33% dos anúncios sem licença geram apenas 3,2% da atividade real. | SQL (PostgreSQL 16/Docker) · Python · matplotlib |
 | **[Análise de Estratégia de Preços e Receita](https://github.com/jpvbrandaos/ecommerce-pricing-revenue-analysis)** | Análise de ponta a ponta de 3 anos de vendas (30.600 pedidos) sobre a eficiência da política de descontos. Conclusão central: o desconto profundo tem correlação próxima de zero com a receita, enquanto o evento de Festival eleva o ticket em cerca de 60%. | Python · SQL (PostgreSQL/Docker) · Power BI |
+| **[Energia Forecast](https://github.com/jpvbrandaos/energia-forecast)** | Previsão day-ahead da carga horária de energia do Brasil (SIN) sobre 11 anos de dados abertos da ONS, do baseline ingênuo ao gradient boosting e ao LSTM. Conclusão central: a limpeza revelou apagões reais escondidos na série, e o modelo final acerta o calendário mas erra nos picos de calor, onde o ar-condicionado dita a demanda e falta a variável de temperatura. | Python · LightGBM · PyTorch · pandas · statsmodels |
 | **[Dashboard Financeiro](https://github.com/jpvbrandaos/Dashboard_Financeiro)** | Gestão de contas a receber e a pagar (2018 a 2019) em três páginas, com KPIs de lucro e margem, análise de pontualidade de pagamentos e recebimentos e quebras por UF e por cliente. | Power BI · DAX · Power Query |
 
 ## Formação
