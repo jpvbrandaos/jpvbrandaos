@@ -14,7 +14,7 @@ Da pergunta de negócio à recomendação acionável, com Power BI, SQL e Python
 
 ## Sobre
 
-Atuo na interseção entre negócio e dados. Formado em Administração pela UFMG, com vivência em finanças, consultoria e mercado financeiro, traduzo perguntas de negócio em análises, indicadores e dashboards que sustentam a tomada de decisão. Conduzo o ciclo analítico completo, da modelagem e tratamento da base até a recomendação acionável, sempre conectando o dado ao impacto financeiro. A bagagem em análise de risco, séries temporais e viabilidade econômica me dá um olhar de negócio que vai além do gráfico.
+Atuo na interseção entre negócio e dados. Formado em Administração pela UFMG, com vivência em finanças, consultoria e mercado financeiro, traduzo perguntas de negócio em análises, indicadores e dashboards que sustentam decisões. Conduzo o ciclo analítico completo, da modelagem e tratamento da base até a recomendação final, sempre conectando o dado ao impacto financeiro. A bagagem em análise de risco, séries temporais e viabilidade econômica me dá um olhar que vai além do gráfico.
 
 Atualmente em busca de oportunidades como **Analista de Dados** e **Business Intelligence**.
 
@@ -26,6 +26,7 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 ![DAX](https://img.shields.io/badge/DAX-01486B?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-376B7E?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Linguagens e Análise de Dados**
 
@@ -54,7 +55,8 @@ Atualmente em busca de oportunidades como **Analista de Dados** e **Business Int
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Airbnb Chicago Analytics](https://github.com/jpvbrandaos/sql-airbnb-analytics)** | Pipeline SQL de ponta a ponta sobre 3,6 milhões de linhas do Inside Airbnb: arquitetura em camadas (staging → core), limpeza auditável e análises de negócio. Conclusão central: preço não é receita — o bairro mais caro da cidade é só o 5º em faturamento, e 33% dos anúncios sem licença geram apenas 3,2% da atividade real. | SQL (PostgreSQL 16/Docker) · Python · matplotlib |
+| **[Monitor de Crédito e Risco do Brasil](https://github.com/jpvbrandaos/br-credit-risk-monitor)** · [painel ao vivo](https://br-credit-risk-monitor-ykfac8n6mmptje47ppwhty.streamlit.app) | Painel que reúne os indicadores de crédito do Banco Central (inadimplência, endividamento das famílias, spread e Selic), com todo o tratamento e a análise feitos em SQL sobre PostgreSQL, numa arquitetura em camadas (raw e analytics). Conclusão central: a inadimplência reage à Selic com cerca de 9 a 10 meses de defasagem, o que funciona como um sinal antecipado de risco de crédito. | Python · SQL (PostgreSQL/Docker) · Streamlit |
+| **[Airbnb Chicago Analytics](https://github.com/jpvbrandaos/sql-airbnb-analytics)** | Pipeline SQL de ponta a ponta sobre 3,6 milhões de linhas do Inside Airbnb: arquitetura em camadas (staging → core), limpeza auditável e análises de negócio. Conclusão central: preço não é receita, o bairro mais caro da cidade é só o 5º em faturamento, e 33% dos anúncios sem licença geram apenas 3,2% da atividade real. | SQL (PostgreSQL 16/Docker) · Python · matplotlib |
 | **[Análise de Estratégia de Preços e Receita](https://github.com/jpvbrandaos/ecommerce-pricing-revenue-analysis)** | Análise de ponta a ponta de 3 anos de vendas (30.600 pedidos) sobre a eficiência da política de descontos. Conclusão central: o desconto profundo tem correlação próxima de zero com a receita, enquanto o evento de Festival eleva o ticket em cerca de 60%. | Python · SQL (PostgreSQL/Docker) · Power BI |
 | **[Energia Forecast](https://github.com/jpvbrandaos/energia-forecast)** | Previsão day-ahead da carga horária de energia do Brasil (SIN) sobre 11 anos de dados abertos da ONS, do baseline ingênuo ao gradient boosting e ao LSTM. Conclusão central: a limpeza revelou apagões reais escondidos na série, e o modelo final acerta o calendário mas erra nos picos de calor, onde o ar-condicionado dita a demanda e falta a variável de temperatura. | Python · LightGBM · PyTorch · pandas · statsmodels |
 | **[Dashboard Financeiro](https://github.com/jpvbrandaos/Dashboard_Financeiro)** | Gestão de contas a receber e a pagar (2018 a 2019) em três páginas, com KPIs de lucro e margem, análise de pontualidade de pagamentos e recebimentos e quebras por UF e por cliente. | Power BI · DAX · Power Query |
